@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+# delete_categorias:
+#     path: /api/categorias/{id?}
+#     controller: "api_platform.action.delete_item:DELETE"
+#     methods: [DELETE]   
